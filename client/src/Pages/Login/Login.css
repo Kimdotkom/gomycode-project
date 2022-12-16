@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: #F5F5F5;
+    min-height: 100vh;
+    display: grid;
+}
+
+.logo-m{
+    width: 72px;
+    height: 72px;
+    border-radius: 10px;
+}
+
+#main-container{
+    place-items: center center;
+}
+
+
+#sign-in-form{
+    margin: 5%;
+    max-width: 330px;
+}
